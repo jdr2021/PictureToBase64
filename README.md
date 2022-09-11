@@ -6,7 +6,6 @@
 运行jar包，然后使用微信截图，点击按钮“从剪切板读取并转换”
 
 
-![image](https://github.com/jdr2021/PictureToBase64/blob/master/1636461233(1).jpg)
 
 然后粘贴到md的编辑器中，即可。
 
