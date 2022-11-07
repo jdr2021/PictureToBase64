@@ -4,7 +4,9 @@
 # 更新日志：2022-11-7
 由于之前有人直接拿我博客的截图去发了原创文章，因此工具增加了水印功能。
 
-<img src="https://github.dev/jdr2021/PictureToBase64/blob/PictureToBase64V2/1667804430181.jpg">
+<img src="https://github.com/jdr2021/PictureToBase64/blob/master/1667804430181.jpg">
+
+<img src="https://github.com/jdr2021/PictureToBase64/blob/master/1667804536256.jpg">
 
 # 更新日志：2021-11-9
 ## 使用方法
