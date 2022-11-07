@@ -1,15 +1,20 @@
 # PictureToBase64
 图片转base64，方便写博客，引入图片资源，避免图片资源丢失。
 
+# 更新日志：2022-11-7
+由于之前有人直接拿我博客的截图去发了原创文章，因此工具增加了水印功能。
 
-# 使用方法
+<img src="https://github.dev/jdr2021/PictureToBase64/blob/PictureToBase64V2/1667804430181.jpg">
+
+# 更新日志：2021-11-9
+## 使用方法
 运行jar包，然后使用微信截图，点击按钮“从剪切板读取并转换”
 
 <img src="https://github.com/jdr2021/PictureToBase64/blob/master/1662912535585.jpg">
 
 然后粘贴到md的编辑器中，即可。
 
-# 输出格式
+## 输出格式
 ```
 ![image][link1]
 
